@@ -7,3 +7,9 @@ let obj ={
     name:"Aniket",
     age:"25"
 }
+
+let func = function(a,b){
+    return a+b
+}
+
+func(5,7);
